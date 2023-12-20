@@ -31,8 +31,8 @@ Let's look at the requirements and simple steps to use it.
 1. Clone it to your local machine.
 2. Open CLI and change the directory where you have stored the project.
 3. In CLI type: **npm i** (as I have already put all the required dependencies).
-4. open pgAdmin and create a new database of any name you like.
-5. copy the code from **query.sql** and paste it into your query tool in pgAdmin. 
+4. Open pgAdmin and create a new database of any name you like.
+5. Copy the code from **query.sql** and paste it into your query tool in pgAdmin. 
   > (Do check you are in your database root directory).
-6. create a **.env** in your root directory with details like database name, password, and host.
-7. type **npm i nodemon** (for faster server restart on save).
+6. Create a **.env** in your root directory with details like database name, password, and host.
+7. Type **npm i nodemon** (for faster server restart on save).
